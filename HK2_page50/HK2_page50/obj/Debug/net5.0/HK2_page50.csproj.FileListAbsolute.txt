@@ -1,0 +1,16 @@
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\bin\Debug\net5.0\HK2_page50.exe
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\bin\Debug\net5.0\HK2_page50.deps.json
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\bin\Debug\net5.0\HK2_page50.runtimeconfig.json
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\bin\Debug\net5.0\HK2_page50.runtimeconfig.dev.json
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\bin\Debug\net5.0\HK2_page50.dll
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\bin\Debug\net5.0\ref\HK2_page50.dll
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\bin\Debug\net5.0\HK2_page50.pdb
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\obj\Debug\net5.0\HK2_page50.csproj.AssemblyReference.cache
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\obj\Debug\net5.0\HK2_page50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\obj\Debug\net5.0\HK2_page50.AssemblyInfoInputs.cache
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\obj\Debug\net5.0\HK2_page50.AssemblyInfo.cs
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\obj\Debug\net5.0\HK2_page50.csproj.CoreCompileInputs.cache
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\obj\Debug\net5.0\HK2_page50.dll
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\obj\Debug\net5.0\ref\HK2_page50.dll
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\obj\Debug\net5.0\HK2_page50.pdb
+C:\Users\TuanKiet\source\repos\HK2_page50\HK2_page50\obj\Debug\net5.0\HK2_page50.genruntimeconfig.cache
